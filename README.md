@@ -4,12 +4,12 @@
 
  <img align="right" alt="GIF" src="https://ipfs.io/ipfs/QmZMk7qy7J1PFAe2CKfeFbSiUN5eRwaRtY2gFoKCT8dDmi" width="500" height="320" />
 
-## I'm an Amazing Uncle of 7,  Developer, Content Creator, and Mentor!!
+## I'm a sibling of 6, Aunt of 7, Developer, Business Analyst, and Dog-lover!
 
 
-- 👀 I’m interested in changing the world with code.
-- 🌱 I’m currently learning how to express myself with fewer but mor eimpactful words.
-- 💞️ I’m looking to bridge the gap between police and the coomunites they serve. 
+- 👀 I’m interested in building Web Applications.
+- 🌱 I love traveling.
+- 💞️ I'm 
 - 📫 Reach me through through [Twitter](https://twitter.com/worldzworth)
 - You can find my latest project here at my [portfolio](https://kellyspence.netlify.app/)
 
